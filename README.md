@@ -1,6 +1,6 @@
 markdown
 CopyEdit
-# cb Team
+# cb66 Team
 
 ## 👥 Team Members
 66024941 สิทธิพล สุขอินทร์ ( dev )
